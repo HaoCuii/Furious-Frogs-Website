@@ -1,14 +1,14 @@
 import React, { useEffect, useRef } from 'react'
 import { ChevronLeft, ChevronRight, ArrowRight } from 'lucide-react'
-import FTCSCOUT from '../assets/26025 FTC SCOUT.png'
+import FTCSCOUT from '../assets/26025-FTC-Scout.png'
 
 // NOTE: In your snippet, "Gallery1" points to "gallery 2.jpg" and is used as the HERO background.
 // We'll keep that mapping as-is.
-import Gallery1 from '../assets/gallery 2.jpg' // HERO background
-import Gallery2 from '../assets/gallery 1.jpg'
-import Gallery3 from '../assets/gallery 3.jpg'
-import Gallery4 from '../assets/gallery 4.jpg'
-import Gallery5 from '../assets/gallery 5.jpg'
+import Gallery1 from '../assets/Gallery-2.jpg' // HERO background
+import Gallery2 from '../assets/Gallery-1.jpg'
+import Gallery3 from '../assets/Gallery-3.jpg'
+import Gallery4 from '../assets/Gallery-4.jpg'
+import Gallery5 from '../assets/Gallery-5.jpg'
 
 import Sponsor1 from '../assets/ProtocaseSponsor.png'
 import Sponsor2 from '../assets/RenRobotsSponsor.jpg'

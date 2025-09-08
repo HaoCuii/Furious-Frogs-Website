@@ -7,14 +7,13 @@ import Evo2 from '../../assets/Into the Deep/Poliwhirl.png'
 import Evo3 from '../../assets/Into the Deep/Poliwrath.png'
 import Robot from '../../assets/Into the Deep/robot.png'
 import RobotSide from '../../assets/Into the Deep/RobotSide.png'
-import CoAxial from '../../assets/Into the Deep/Co-Axial Arm.png'
+import CoAxial from '../../assets/Into the Deep/Co-Axial-Arm.png'
 import IntakeV1 from '../../assets/Into the Deep/IntakeV1.png'
 import IntakeV2 from '../../assets/Into the Deep/IntakeV2.png'
 import IntakeV3 from '../../assets/Into the Deep/IntakeV3.png'
 import Sensor from '../../assets/Into the Deep/Sensor.png'
 import Sensor2 from '../../assets/Into the Deep/Sensor2.png'
-import IntakeFinal from '../../assets/Into the Deep/IntakeFinal.png'
-import Linkage from '../../assets/Into the Deep/Scissor Linkage.png'
+import Linkage from '../../assets/Into the Deep/Scissor-Linkage.png'
 
 // --------- helpers (ASCII-only to avoid JSX parser issues) ---------
 const fade = {
