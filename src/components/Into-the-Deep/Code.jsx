@@ -13,12 +13,12 @@ import {
   ArrowLeftRight,
 } from 'lucide-react'
 
-import teleop1 from '../../assets/Into the Deep/teleop1.png'
-import teleop2 from '../../assets/Into the Deep/teleop2.png'
-import teleop3 from '../../assets/Into the Deep/teleop3.png'
-import meepmeep1 from '../../assets/Into the Deep/meepmeep1.png'
-import meepmeep2 from '../../assets/Into the Deep/meepmeep2.png'
-import colorsensor from '../../assets/Into the Deep/colorsensor.png'
+import teleop1 from '../../assets/Into-the-Deep/teleop1.png'
+import teleop2 from '../../assets/Into-the-Deep/teleop2.png'
+import teleop3 from '../../assets/Into-the-Deep/teleop3.png'
+import meepmeep1 from '../../assets/Into-the-Deep/meepmeep1.png'
+import meepmeep2 from '../../assets/Into-the-Deep/meepmeep2.png'
+import colorsensor from '../../assets/Into-the-Deep/colorsensor.png'
 
 // --------- helpers (ASCII-only to avoid JSX parser issues) ---------
 const fade = {
