@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight, Wrench, Cog, CircuitBoard, LineChart, Sparkl
 import Evo1 from '../../assets/Into-the-Deep/Poliwag.png'
 import Evo2 from '../../assets/Into-the-Deep/Poliwhirl.png'
 import Evo3 from '../../assets/Into-the-Deep/Poliwrath.png'
-import Robot from '../../assets/Into-the-Deep/robot.png'
+import Robot from '../../assets/Into-the-Deep/Robot.png'
 import RobotSide from '../../assets/Into-the-Deep/RobotSide.png'
 import CoAxial from '../../assets/Into-the-Deep/Co-Axial-Arm.png'
 import IntakeV1 from '../../assets/Into-the-Deep/IntakeV1.png'
